@@ -85,8 +85,7 @@ This dashboard enables Adidas teams to:
 ## 📷 Dashboard Preview
 
 <p align = "center"
-    <kbd><img width="900" alt="image" src="![Adidas US Sales Dashboard](https://github.com/user-attachments/assets/9c6b60a3-25d8-485a-a355-5b467eedbff0)
-"></kbd></p>
+    <kbd><img width="900" alt="image" src="https://github.com/user-attachments/assets/9c6b60a3-25d8-485a-a355-5b467eedbff0"></kbd></p>
 <p align="center">Fig - FNP Sales Dashboard created using Excel PivotTables and PivotCharts with Slicers</p>
 
 ## 💡 Future Enhancements
